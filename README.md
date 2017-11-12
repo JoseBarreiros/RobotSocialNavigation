@@ -1,5 +1,5 @@
 # RobotSocialNavigation
-Implementation of Social Navigation       	        
+Implementation of Social Navigation in ROS     	        
 Based on pedestrian model on Helbing & Molnar (1995).
 
 Jose Barreiros, Sept 2017		    		        
